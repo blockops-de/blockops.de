@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+date: 2014-07-16
+img: safe.png
+alt: image-alt
+title: Decentralization
+project-date:
+client:
+category:
+description: "Description follows"
+---

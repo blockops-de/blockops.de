@@ -1,0 +1,84 @@
+title: blockops.de
+logo: logo.png
+print_title_with_logo: false
+email: info@blockops.de
+url: https://github.com/blockops-de
+description: 
+keywords: blockchain graphene development full-stack
+skills: We operate your blockchain business
+
+about_left: We are a team of experts that has been building applications on Blockchains since 2014.
+about_right: Blockchain as a technology dates back to 2009. We dived in, first as fans, then professionally. We established our company with a strong international focus. To date, our team involves Blockchain as well as Business and Marketing experts with extensive international experience, network and academic background.
+
+meta_author: Blockchain Development UG (haftungsbeschränkt)
+
+expertise:
+  slogan: Customer first, process second, technology third
+  left:
+  - Blockchain Technologies A to Z
+  - High Availability DevOps
+  - Customizting Business Automation
+  right:
+  - Modeling, Design & Tokenomics
+  - Decentralization vs. Centralization Analysis
+  - Full-Stack Development
+  - Continous Integration and Deployment
+  - Marketing and Brand Consultancy
+  - Boardroom Processes & Establishing Business Goals
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname:
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: aaaaaa
+  primary-rgb: 105,175,247
+  secondary: 555555
+  secondary-dark: 333333
+
+# Footer settings
+footer:
+  copyright: Blockchain Development UG (haftungsbeschränkt)
+  location: Company
+  social: Around the Web
+  credits:
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: http://github.com/blockops-de
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Blockchain Development UG (haftungsbeschränkt)
+  - line: "Am Weichselgarten 7"
+  - line: "91058 Erlangen / Germany"
+  - line: "HRB 16563 / Fürth"
+
+# Credits content
+credits: ''
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+#for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: ""
