@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator>
+  <link href="https://github.com/blockops-de/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://github.com/blockops-de/" rel="alternate" type="text/html" />
+  <updated>2020-12-02T10:32:05+00:00</updated>
+  <id>https://github.com/blockops-de/</id>
+
+  
+    <title type="html">blockops.de</title>
+  
+
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Blockchain</title>
+      <link href="https://github.com/blockops-de/" rel="alternate" type="text/html" title="Blockchain" />
+      <published>2014-07-18T00:00:00+00:00</published>
+      <updated>2014-07-18T00:00:00+00:00</updated>
+      <id>https://github.com/blockops-de/project-1</id>
+      <content type="html" xml:base="https://github.com/blockops-de/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">DevOps</title>
+      <link href="https://github.com/blockops-de/" rel="alternate" type="text/html" title="DevOps" />
+      <published>2014-07-17T00:00:00+00:00</published>
+      <updated>2014-07-17T00:00:00+00:00</updated>
+      <id>https://github.com/blockops-de/project-2</id>
+      <content type="html" xml:base="https://github.com/blockops-de/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Decentralization</title>
+      <link href="https://github.com/blockops-de/" rel="alternate" type="text/html" title="Decentralization" />
+      <published>2014-07-16T00:00:00+00:00</published>
+      <updated>2014-07-16T00:00:00+00:00</updated>
+      <id>https://github.com/blockops-de/project-4</id>
+      <content type="html" xml:base="https://github.com/blockops-de/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Tokenomics</title>
+      <link href="https://github.com/blockops-de/" rel="alternate" type="text/html" title="Tokenomics" />
+      <published>2014-07-16T00:00:00+00:00</published>
+      <updated>2014-07-16T00:00:00+00:00</updated>
+      <id>https://github.com/blockops-de/project-3</id>
+      <content type="html" xml:base="https://github.com/blockops-de/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
